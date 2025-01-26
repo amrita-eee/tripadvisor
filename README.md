@@ -1,5 +1,7 @@
 TripAdvisor Clone
 
+file:///C:/Users/Amrita%20varshini.DESKTOP-9SB35NV/Downloads/trip/index.html
+
 This is a simple TripAdvisor-inspired website created using HTML and basic CSS. It showcases an example of a travel review platform where users can explore destinations, read reviews, and view images of popular tourist attractions.
 
 Features
