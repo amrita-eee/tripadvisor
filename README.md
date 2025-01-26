@@ -1,4 +1,5 @@
 TripAdvisor Clone
+
 This is a simple TripAdvisor-inspired website created using HTML and basic CSS. It showcases an example of a travel review platform where users can explore destinations, read reviews, and view images of popular tourist attractions.
 
 Features
